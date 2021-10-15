@@ -1,4 +1,4 @@
 # DiscordBot
-Bot that I made to improve Python skills
+Bot que eu fiz para melhorar minha linguagem Python
 
-Invite link : https://discordapp.com/oauth2/authorize?client_id=467454711033757706&scope=bot&permissions=8
+Link de convite : https://discordapp.com/oauth2/authorize?client_id=467454711033757706&scope=bot&permissions=8
